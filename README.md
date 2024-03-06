@@ -3,13 +3,13 @@
 
 # Introduction
 
-This repository contains the ESP32 breakout board seen below as Fritzing part. There are two versions of the part:
+This repository contains a breakout board for the ESP-WROOM-32 and the ESP32S both with 38 pins as Fritzing part(`*.fzpz`). The PCB leads 36 pins out (via two 2x9 pin headers). There are two versions of the part:
 One with all parts assembled and one is just the blank PCB. The only difference of the both versions is the breadboard view. 
 The schematic and pcb view are the same.
 
 
 # Installation 
-- Download the needed .fzpz file for the file you wish to use.
+- Download the needed `*.fzpz` file for the board you wish to use.
 - Open Fritzing and click on the 4 strokes under "Parts".
 - Select "Import..." and select the downloaded .fzpz file
 - Now you can use the part like any other
